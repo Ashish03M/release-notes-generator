@@ -1,0 +1,42 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+*.pyd
+*.so
+*.dll
+
+# Build artifacts
+build/
+dist/
+wheels/
+*.egg-info
+*.manifest
+
+# Virtual environments
+.venv/
+venv/
+.envrc
+
+# Environment files (secrets)
+.env
+.env.*  # e.g., .env.local, .env.dev
+*.pem   # private keys
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+*.ipynb
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE-specific
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
+
+# uv lockfile (optional — keep if you want reproducible installs)
+# uv.lock

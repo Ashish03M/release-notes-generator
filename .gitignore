@@ -40,3 +40,6 @@ Thumbs.db
 
 # uv lockfile (optional — keep if you want reproducible installs)
 # uv.lock
+*.pem
+*.key
+/resources/sid-gobbeldygook.2025-09-09.private-key.pem
